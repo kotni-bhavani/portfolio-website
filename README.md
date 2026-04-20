@@ -60,7 +60,7 @@ portfolio-website/
 
 - Email: bhavanikotni725@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bhavani-kotni
-- GitHub: 
+- GitHub: https://github.com/kotni-bhavani
 
 ---
 
